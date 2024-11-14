@@ -1,7 +1,7 @@
 # Curriculum
 
 
-![foto propia](img\foto.png) Alberto Noceda Sestayo
+![foto propia](img/foto.png) Alberto Noceda Sestayo
 
 ## resumen
 
@@ -39,4 +39,4 @@ Actual estudiante en *1º dam* en IES san clemente interesado en la programació
 [SMR](https://www.iessanclemente.net/oferta-educativa/presencial/ciclo-medio-de-sistemas-microinformaticos-e-redes/)
 
 ## Muestras de codigo
-[![foto enlace a muestra](img\foto2.jpg)](muestra.md)
+[![foto enlace a muestra](img/foto2.jpg)](muestra.md)
